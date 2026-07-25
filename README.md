@@ -1,8 +1,9 @@
 # 机场跑路预警名单 · 每日更新
 
-![更新](https://img.shields.io/badge/更新-2026-07-24-fb7185) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E9%A2%84%E8%AD%A6-96%20%E6%9D%A1-f59e0b) [![完整查询](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E5%8F%AF%E6%90%9C%E7%B4%A2%E6%9F%A5%E8%AF%A2-jichangcha.com-00e676)](https://www.jichangcha.com/airport-status/)
+![更新](https://img.shields.io/badge/更新-2026-07-24-fb7185) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E9%A2%84%E8%AD%A6-96%20%E6%9D%A1-f59e0b) [![完整查询](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E5%8F%AF%E6%90%9C%E7%B4%A2%E6%9F%A5%E8%AF%A2-jichangcha.com-00e676)](https://www.jichangcha.com/airport-status/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 > ⚠️ **数据整理并引用自 [@limbopro 的公开跑路机场清单](https://github.com/limbopro/Paolujichang)(经授权引用,已致谢),仅供参考,不代表本仓库独立结论。**
+> 📣 预警名单一有变化,TG 频道第一时间推送新增机场名:**[@jichangcha](https://t.me/jichangcha)**
 
 买机场最怕跑路——钱花了、节点没了、退款无门。这份名单帮你在下单前先查一眼:**这家是不是已经被社区反馈跑路 / 有预警了。**
 
@@ -63,7 +64,7 @@
 - 🏠 [机场查主站](https://www.jichangcha.com/) —— 16 家机场横向对比 · 189 题问题库 · 图文教程
 - 🚨 [机场跑路预警查询(完整版)](https://www.jichangcha.com/airport-status/)
 - 🆓 [每日免费节点](https://www.jichangcha.com/free-node/) · 📱 [每日共享 Apple ID](https://www.jichangcha.com/share-id/)
-- 💬 Telegram:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
+- 📣 TG 频道(预警实时推送):[@jichangcha](https://t.me/jichangcha) · 💬 联系:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
 
 ## 📌 声明
 
