@@ -9,7 +9,7 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
-const SITE = 'https://www.jichangcha.com';
+const SITE = 'https://jichangcnweb.com';
 // 跑路预警栏目已迁到机场中文网,此链接单独指向新站(其余 jichangcha 链接不变)
 const STATUS_PAGE = 'https://jichangcnweb.com/airport-status/';
 const SRC_URL = 'https://raw.githubusercontent.com/limbopro/Paolujichang/main/readme.md';
@@ -78,7 +78,7 @@ async function main() {
     })
     .join('\n');
 
-  const readme = `# 机场跑路预警名单 · 每日更新
+  const readme = `# 全网最全最新的机场跑路预警名单 · 每日更新
 
 ![更新](https://img.shields.io/badge/更新-${dateStr}-fb7185) ![收录](https://img.shields.io/badge/${enc('收录预警')}-${total}%20${enc('条')}-f59e0b) [![完整查询](https://img.shields.io/badge/${enc('完整可搜索查询')}-jichangcnweb.com-00e676)](${STATUS_PAGE}) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
@@ -109,14 +109,14 @@ ${rows}
 
 避开跑路最简单的办法,就是选**运营多年、口碑稳定**的机场,而不是图便宜赌新面孔:
 
-- 🥈 本站主推 **[星岛梦机场](${SITE}/brands/xingdaomeng/)** —— 六年老牌、企业级内网专线、无倍率不限设备,[8 元/月起(优惠码 nmw888)](${SITE}/go/xingdaomeng/);
-- 🏆 更多稳定之选见 [2026 机场推荐排行榜](${SITE}/blog/2026-jichang-paihangbang/)。
+- 🥈 主推 **[星岛梦机场](${SITE}/reviews/xingdaomeng/)** —— 六年老牌、企业级内网专线、无倍率不限设备,[8 元/月起(优惠码 nmw888)](${SITE}/go/xingdaomeng/);
+- 🏆 更多稳定之选见 [2026 机场推荐](${SITE}/airports/);优惠码在 [优惠码中心](${SITE}/coupons/)。
 
 ## 🔗 更多内容
 
-- 🏠 [机场查主站](${SITE}/) —— 16 家机场横向对比 · 189 题问题库 · 图文教程
+- 🏠 [机场中文网](${SITE}/) —— 机场评测、优惠码、客户端教程与避坑指南
 - 🚨 [机场跑路预警查询(完整版)](${STATUS_PAGE})
-- 🆓 [每日免费节点](${SITE}/free-node/) · 📱 [每日共享 Apple ID](${SITE}/share-id/)
+- 🆓 [每日免费节点](${SITE}/free-nodes/) · 📱 [每日共享 Apple ID](${SITE}/apple-id/) · ⚠️ [机场购买避坑指南](${SITE}/warnings/)
 - 📣 TG 频道(预警实时推送):[@jichangcha](https://t.me/jichangcha) · 💬 联系:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
 
 ## 📌 声明

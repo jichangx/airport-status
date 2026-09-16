@@ -1,4 +1,4 @@
-# 机场跑路预警名单 · 每日更新
+# 全网最全最新的机场跑路预警名单 · 每日更新
 
 ![更新](https://img.shields.io/badge/更新-2026-09-16-fb7185) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E9%A2%84%E8%AD%A6-96%20%E6%9D%A1-f59e0b) [![完整查询](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E5%8F%AF%E6%90%9C%E7%B4%A2%E6%9F%A5%E8%AF%A2-jichangcnweb.com-00e676)](https://jichangcnweb.com/airport-status/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
@@ -56,14 +56,14 @@
 
 避开跑路最简单的办法,就是选**运营多年、口碑稳定**的机场,而不是图便宜赌新面孔:
 
-- 🥈 本站主推 **[星岛梦机场](https://www.jichangcha.com/brands/xingdaomeng/)** —— 六年老牌、企业级内网专线、无倍率不限设备,[8 元/月起(优惠码 nmw888)](https://www.jichangcha.com/go/xingdaomeng/);
-- 🏆 更多稳定之选见 [2026 机场推荐排行榜](https://www.jichangcha.com/blog/2026-jichang-paihangbang/)。
+- 🥈 主推 **[星岛梦机场](https://jichangcnweb.com/reviews/xingdaomeng/)** —— 六年老牌、企业级内网专线、无倍率不限设备,[8 元/月起(优惠码 nmw888)](https://jichangcnweb.com/go/xingdaomeng/);
+- 🏆 更多稳定之选见 [2026 机场推荐](https://jichangcnweb.com/airports/);优惠码在 [优惠码中心](https://jichangcnweb.com/coupons/)。
 
 ## 🔗 更多内容
 
-- 🏠 [机场查主站](https://www.jichangcha.com/) —— 16 家机场横向对比 · 189 题问题库 · 图文教程
+- 🏠 [机场中文网](https://jichangcnweb.com/) —— 机场评测、优惠码、客户端教程与避坑指南
 - 🚨 [机场跑路预警查询(完整版)](https://jichangcnweb.com/airport-status/)
-- 🆓 [每日免费节点](https://www.jichangcha.com/free-node/) · 📱 [每日共享 Apple ID](https://www.jichangcha.com/share-id/)
+- 🆓 [每日免费节点](https://jichangcnweb.com/free-nodes/) · 📱 [每日共享 Apple ID](https://jichangcnweb.com/apple-id/) · ⚠️ [机场购买避坑指南](https://jichangcnweb.com/warnings/)
 - 📣 TG 频道(预警实时推送):[@jichangcha](https://t.me/jichangcha) · 💬 联系:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
 
 ## 📌 声明
