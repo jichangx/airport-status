@@ -62,6 +62,7 @@
 ## 🔗 更多内容
 
 - 🏠 [机场中文网](https://jichangcnweb.com/) —— 机场评测、优惠码、客户端教程与避坑指南
+- 🗂️ [四站精品聚合](https://github.com/jichangx) —— 机场推荐 / 免费节点 / 共享 Apple ID / 跑路预警 / 客户端教程 / 翻墙科普一页看全
 - 🚨 [机场跑路预警查询(完整版)](https://jichangcnweb.com/airport-status/)
 - 🆓 [每日免费节点](https://jichangcnweb.com/free-nodes/) · 📱 [每日共享 Apple ID](https://jichangcnweb.com/apple-id/) · ⚠️ [机场购买避坑指南](https://jichangcnweb.com/warnings/)
 - 📣 TG 频道(预警实时推送):[@jichangcha](https://t.me/jichangcha) · 💬 联系:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
