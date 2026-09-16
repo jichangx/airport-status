@@ -10,7 +10,8 @@ import { dirname, join } from 'node:path';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SITE = 'https://www.jichangcha.com';
-const STATUS_PAGE = `${SITE}/airport-status/`;
+// 跑路预警栏目已迁到机场中文网,此链接单独指向新站(其余 jichangcha 链接不变)
+const STATUS_PAGE = 'https://jichangcnweb.com/airport-status/';
 const SRC_URL = 'https://raw.githubusercontent.com/limbopro/Paolujichang/main/readme.md';
 const SRC_REPO = 'https://github.com/limbopro/Paolujichang';
 const SHOW_YEARS = ['2026', '2025', '2024'];
@@ -79,7 +80,7 @@ async function main() {
 
   const readme = `# 机场跑路预警名单 · 每日更新
 
-![更新](https://img.shields.io/badge/更新-${dateStr}-fb7185) ![收录](https://img.shields.io/badge/${enc('收录预警')}-${total}%20${enc('条')}-f59e0b) [![完整查询](https://img.shields.io/badge/${enc('完整可搜索查询')}-jichangcha.com-00e676)](${STATUS_PAGE}) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新](https://img.shields.io/badge/更新-${dateStr}-fb7185) ![收录](https://img.shields.io/badge/${enc('收录预警')}-${total}%20${enc('条')}-f59e0b) [![完整查询](https://img.shields.io/badge/${enc('完整可搜索查询')}-jichangcnweb.com-00e676)](${STATUS_PAGE}) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 > ⚠️ **数据整理并引用自 [@limbopro 的公开跑路机场清单](${SRC_REPO})(经授权引用,已致谢),仅供参考,不代表本仓库独立结论。**
 > 📣 预警名单一有变化,TG 频道第一时间推送新增机场名:**[@jichangcha](https://t.me/jichangcha)**
@@ -90,7 +91,7 @@ async function main() {
 
 本 README 仅摘录**近三年**部分条目;**全部 ${total} 条、可按机场名 / 年份 / 级别搜索筛选**的完整版在主站:
 
-👉 **[jichangcha.com/airport-status/](${STATUS_PAGE})**
+👉 **[jichangcnweb.com/airport-status/](${STATUS_PAGE})**
 
 ## 📋 近期跑路 / 预警机场(节选)
 
@@ -121,7 +122,7 @@ ${rows}
 ## 📌 声明
 
 - 本仓库为 [@limbopro 公开清单](${SRC_REPO}) 的结构化摘要与引用,**不对各条目做独立断言,仅供参考**;个别条目可能存在时效或争议,请自行核实。
-- 每天自动同步更新;完整可搜索版在主站 [jichangcha.com/airport-status/](${STATUS_PAGE})。
+- 每天自动同步更新;完整可搜索版在主站 [jichangcnweb.com/airport-status/](${STATUS_PAGE})。
 
 ⭐ 觉得有用请点个 Star,每天自动更新,你会在动态里看到。
 `;

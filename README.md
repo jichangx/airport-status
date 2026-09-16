@@ -1,6 +1,6 @@
 # 机场跑路预警名单 · 每日更新
 
-![更新](https://img.shields.io/badge/更新-2026-09-15-fb7185) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E9%A2%84%E8%AD%A6-96%20%E6%9D%A1-f59e0b) [![完整查询](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E5%8F%AF%E6%90%9C%E7%B4%A2%E6%9F%A5%E8%AF%A2-jichangcha.com-00e676)](https://www.jichangcha.com/airport-status/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新](https://img.shields.io/badge/更新-2026-09-16-fb7185) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E9%A2%84%E8%AD%A6-96%20%E6%9D%A1-f59e0b) [![完整查询](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E5%8F%AF%E6%90%9C%E7%B4%A2%E6%9F%A5%E8%AF%A2-jichangcnweb.com-00e676)](https://jichangcnweb.com/airport-status/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 > ⚠️ **数据整理并引用自 [@limbopro 的公开跑路机场清单](https://github.com/limbopro/Paolujichang)(经授权引用,已致谢),仅供参考,不代表本仓库独立结论。**
 > 📣 预警名单一有变化,TG 频道第一时间推送新增机场名:**[@jichangcha](https://t.me/jichangcha)**
@@ -11,7 +11,7 @@
 
 本 README 仅摘录**近三年**部分条目;**全部 96 条、可按机场名 / 年份 / 级别搜索筛选**的完整版在主站:
 
-👉 **[jichangcha.com/airport-status/](https://www.jichangcha.com/airport-status/)**
+👉 **[jichangcnweb.com/airport-status/](https://jichangcnweb.com/airport-status/)**
 
 ## 📋 近期跑路 / 预警机场(节选)
 
@@ -46,7 +46,7 @@
 | 牛牛很牛 | 机场 | 跑路预警 | 2024 | 01.23.2024 | [反馈](https://github.com/limbopro/paolujichang/issues/25) |
 | tpap | 线路上游 | 已跑路 | 2024 | 02.04.2024 | [参阅](https://t.me/ai |
 
-> 完整名单(含更早年份)见 [主站查询页](https://www.jichangcha.com/airport-status/) 或 [原始数据源](https://github.com/limbopro/Paolujichang)。
+> 完整名单(含更早年份)见 [主站查询页](https://jichangcnweb.com/airport-status/) 或 [原始数据源](https://github.com/limbopro/Paolujichang)。
 
 ## 🙏 数据来源与致谢
 
@@ -62,13 +62,13 @@
 ## 🔗 更多内容
 
 - 🏠 [机场查主站](https://www.jichangcha.com/) —— 16 家机场横向对比 · 189 题问题库 · 图文教程
-- 🚨 [机场跑路预警查询(完整版)](https://www.jichangcha.com/airport-status/)
+- 🚨 [机场跑路预警查询(完整版)](https://jichangcnweb.com/airport-status/)
 - 🆓 [每日免费节点](https://www.jichangcha.com/free-node/) · 📱 [每日共享 Apple ID](https://www.jichangcha.com/share-id/)
 - 📣 TG 频道(预警实时推送):[@jichangcha](https://t.me/jichangcha) · 💬 联系:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
 
 ## 📌 声明
 
 - 本仓库为 [@limbopro 公开清单](https://github.com/limbopro/Paolujichang) 的结构化摘要与引用,**不对各条目做独立断言,仅供参考**;个别条目可能存在时效或争议,请自行核实。
-- 每天自动同步更新;完整可搜索版在主站 [jichangcha.com/airport-status/](https://www.jichangcha.com/airport-status/)。
+- 每天自动同步更新;完整可搜索版在主站 [jichangcnweb.com/airport-status/](https://jichangcnweb.com/airport-status/)。
 
 ⭐ 觉得有用请点个 Star,每天自动更新,你会在动态里看到。
